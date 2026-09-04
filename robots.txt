@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://PauloMarculino.github.io/reference-xdczh5/sitemap.xml
